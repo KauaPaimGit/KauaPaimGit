@@ -15,17 +15,6 @@ usuario: KauaPaimGit<br>nome: Kauã Paim<br>foco: Desenvolvimento de Software e 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<a href="https://github.com/KauaPaimGit/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO1&theme=dracula&show_owner=true" /></a>
-<a href="https://github.com/KauaPaimGit/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO2&theme=dracula&show_owner=true" /></a>
-
-
-<a href="https://github.com/KauaPaimGit/REPO3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO3&theme=dracula&show_owner=true" /></a>
-<a href="https://github.com/KauaPaimGit/REPO4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO4&theme=dracula&show_owner=true" /></a>
-
-
-<a href="https://github.com/KauaPaimGit/REPO5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO5&theme=dracula&show_owner=true" /></a>
-<a href="https://github.com/KauaPaimGit/REPO6"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaPaimGit&repo=REPO6&theme=dracula&show_owner=true" /></a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KauaPaimGit&icon=2&color=11)](https://visitcount.itsvg.in)
 
