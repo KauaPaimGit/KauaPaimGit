@@ -1,5 +1,5 @@
 # 💫 About Me:
-usuario: KauaPaimGit<br>nome: Kauã Paim<br>foco: Desenvolvimento de Software e Aprendizado Contínuo<br>linguagens_principais:<br>- Python<br>- Java<br>- JavaScript
+usuario: KauaPaimGit<br>nome: Kauã Paim<br>foco: Desenvolvimento de Software e Aprendizado Contínuo<br>linguagens_principais:<br>- Python<br>- Java<br>- JavaScript<br>- TypesScript
 
 
 ## 🌐 Socials:
