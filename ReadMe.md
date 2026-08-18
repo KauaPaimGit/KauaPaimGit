@@ -35,8 +35,8 @@ Atualmente focado no desenvolvimento de aplicações interativas e front-end com
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauaPaimGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaPaimGit&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://stats.justcaliturner.dev/api?username=KauaPaimGit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://stats.justcaliturner.dev/api/top-langs/?username=KauaPaimGit&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
