@@ -32,11 +32,12 @@ Atualmente focado no desenvolvimento de aplicações interativas e front-end com
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="150" src="https://stats.justcaliturner.dev/api?username=KauaPaimGit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://stats.justcaliturner.dev/api/top-langs/?username=KauaPaimGit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/KauaPaimGit?label=Followers&style=for-the-badge&color=0284c7" />
+  <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Front--end%20Web-38bdf8?style=for-the-badge" />
 </div>
 
 ---
